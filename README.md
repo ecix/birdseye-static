@@ -10,7 +10,11 @@ you can find the prebuilt UI here.
 In your birdseye application directory (e.g. `/opt/ecix/birdseye/`)
 just type
 
-    ./bin/fetch_ui_static
+    ./bin/fetch_ui_dist
 
+
+This is usually done by the startup script `start_uwsgi`.
+However, you can disable auto downloading by setting `autodownload_ui = false`
+in your `/etc/birdseye/birdseye.conf`
 
 

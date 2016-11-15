@@ -1,7 +1,8 @@
 
 # Prebuilt Birdseye Frontend Distribution
 
-In case you don't want to built the frontend yourself,
+In case you don't want to build the frontend yourself,
+e.g. you don't want to install npm, gulp and tons of JS dependencies,
 you can find the prebuilt UI here.
 
 
